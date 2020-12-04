@@ -53,6 +53,7 @@ section {
 
 button {
     margin: 5px;
+    border-radius: 5px;
 }
 
 header {
@@ -91,7 +92,9 @@ header img {
     height: var(--header-height);
 }
 
-
+input {
+    border-radius: 5px;
+}
 
 content {
     width: 80%;
